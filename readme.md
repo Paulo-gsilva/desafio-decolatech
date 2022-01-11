@@ -1,3 +1,3 @@
-# Desafio Decola Tech
+# Desafio Decola Tech.
 
 Criando primeiro repositório.
