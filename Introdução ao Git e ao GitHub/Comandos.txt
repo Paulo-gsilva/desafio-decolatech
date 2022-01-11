@@ -1,0 +1,3 @@
+COMANDOS BÁSICOS 
+-git remote add origin (repositorio)
+-git push origin master
